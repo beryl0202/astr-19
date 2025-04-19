@@ -1,7 +1,7 @@
 class favanimal:
 
 	#initialize the class
-	def __init__(self,name="leopard seal", name, armlen, leglen, eyenum, tail = True, furry = False):
+	def __init__(self, name, armlen, leglen, eyenum, tail = True, furry = False):
 		self.name = name
 		self.armlen = armlen
 		self.leglen = leglen
